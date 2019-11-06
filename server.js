@@ -16,6 +16,10 @@ app.use(express.static(path.join(__dirname, 'app/public')));
 require("./app/routes/apiRoutes")(app);
 require("./app/routes/htmlRoutes")(app);
 
+//static
+app.use(express.static("public"));
+
+
 // Listener
 app.listen(PORT, function() {
     console.log("App listening on PORT: " + PORT);

@@ -1,7 +1,7 @@
 var friends = [
     {
         "name":"Chris",
-        "photo":"https://i.imgur.com/4gXwpAE.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         "name":"Christy",
-        "photo":"https://i.imgur.com/ZElYYxT.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             2,
             1,
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         "name":"Lynal",
-        "photo":"https://i.imgur.com/S5BfbXq.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         "name":"Destro",
-        "photo":"https://i.imgur.com/1zPzhsz.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             5,
             1,
@@ -65,7 +65,7 @@ var friends = [
     },             
     {
         "name":"Jesus",
-        "photo":"https://i.imgur.com/kw4MYTo.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             2,
             5,
@@ -81,7 +81,7 @@ var friends = [
     },
     {
         "name":"John",
-        "photo":"https://i.imgur.com/OJkpb83.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             5,
@@ -97,7 +97,7 @@ var friends = [
     },
     {
         "name":"Mark",
-        "photo":"https://i.imgur.com/di2N0ED.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
@@ -113,7 +113,7 @@ var friends = [
     },
     {
         "name":"Matt",
-        "photo":"https://i.imgur.com/p6m32rB.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             2,
             1,
@@ -129,7 +129,7 @@ var friends = [
     },
     {
         "name":"Mike",
-        "photo":"https://i.imgur.com/BMnlQDf.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             1,
             1,
@@ -145,7 +145,7 @@ var friends = [
     },
     {
         "name":"Paul",
-        "photo":"https://i.imgur.com/2xWHe7I.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             1,
             5,
@@ -161,7 +161,7 @@ var friends = [
     },
     {
         "name":"Trump",
-        "photo":"https://i.imgur.com/qwU2Dzu.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
@@ -177,7 +177,7 @@ var friends = [
     },
     {
         "name":"Bishop",
-        "photo":"https://i.imgur.com/nt2Ewuh.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             5,
             1,
@@ -193,7 +193,7 @@ var friends = [
     },
     {
         "name":"Tony",
-        "photo":"https://i.imgur.com/qgMg1AN.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -209,7 +209,7 @@ var friends = [
     },
     {
         "name":"Cyclops",
-        "photo":"https://i.imgur.com/oslMAmH.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             5,
@@ -225,7 +225,7 @@ var friends = [
     },
     {
         "name":"Angel",
-        "photo":"https://i.imgur.com/zH4RXvm.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -241,7 +241,7 @@ var friends = [
     },
     {
         "name":"Tyrial",
-        "photo":"https://i.imgur.com/Bbx5jjv.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
@@ -257,7 +257,7 @@ var friends = [
     },
     {
         "name":"Andarial",
-        "photo":"https://i.imgur.com/cXMAP5E.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -273,7 +273,7 @@ var friends = [
     },
     {
         "name":"Melahydeal",
-        "photo":"https://i.imgur.com/tvZ99iJ.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -289,7 +289,7 @@ var friends = [
     },
     {
         "name":"Josiah",
-        "photo":"https://i.imgur.com/pjNogCY.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -305,7 +305,7 @@ var friends = [
     },
     {
         "name":"Andarian",
-        "photo":"https://i.imgur.com/Dn0Xw3k.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             5,
             1,
@@ -321,7 +321,7 @@ var friends = [
     },
     {
         "name":"Trump",
-        "photo":"https://i.imgur.com/9fdq2tp.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -337,7 +337,7 @@ var friends = [
     },
     {
         "name":"Uther",
-        "photo":"https://i.imgur.com/c1uQbjC.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             5,
             1,
@@ -353,7 +353,7 @@ var friends = [
     },
     {
         "name":"Nighycrawler",
-        "photo":"https://i.imgur.com/c1uQbjC.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             3,
             1,
@@ -369,7 +369,7 @@ var friends = [
     },
     {
         "name":"Kimberly",
-        "photo":"https://i.imgur.com/8t9gDZS.jpg",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
         "scores":[
             4,
             1,
